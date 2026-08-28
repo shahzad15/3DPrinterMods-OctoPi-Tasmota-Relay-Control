@@ -1,0 +1,11 @@
+{
+  "ip_address": "192.168.1.150",
+  "idx": "1",
+  "auto_connect": true,
+  "auto_connect_delay": 5,
+  "auto_disconnect": true,
+  "auto_off": true,
+  "auto_off_delay": 10,
+  "thermal_runaway_cutoff": true,
+  "max_temp_limit": 305
+}
